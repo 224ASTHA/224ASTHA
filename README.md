@@ -13,7 +13,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=224ASTHA&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=224ASTHA&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=224ASTHA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
